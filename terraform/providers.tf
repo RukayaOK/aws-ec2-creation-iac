@@ -1,0 +1,24 @@
+terraform {
+  required_providers {
+    aws = {
+      source = "hashicorp/aws"
+      version = "4.43.0"
+    }
+    tls = {
+      source = "hashicorp/tls"
+      version = "4.0.4"
+    }
+    local = {
+      source = "hashicorp/local"
+      version = "2.2.3"
+    }
+  }
+}
+
+provider "aws" {
+  region  = "${var.aws_region}"
+}
+
+provider "tls" {}
+
+provider "local" {}
