@@ -1,6 +1,6 @@
 # Create EC2 Instances with Infrastructure as Code (IAC)
 
-In this five part series we will create an AWS Elastic Compute 2 (EC2) Instance using:
+In this five part series we will create an AWS Elastic Compute Cloud (EC2) Instance using:
 1. The AWS Console
 2. Terraform
 3. Pulumi
