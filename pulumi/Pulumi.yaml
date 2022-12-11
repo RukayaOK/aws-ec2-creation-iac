@@ -1,0 +1,6 @@
+name: aws-ec2-creation
+description: A Python Pulumi Project used to test the creation of an AWS EC2 instance
+runtime:
+    name: python
+    options:
+        virtualenv: venv
