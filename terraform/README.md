@@ -2,7 +2,7 @@
 
 ## Detailed Instructions 
 
-To understand this repository in detail you can follow the blog peice here: [Create an EC2 Instance on AWS using Terraform](https://medium.com/@roadtocloude/create-an-ec2-instance-using-terraform-7606cba03d2c)
+To understand this repository in detail you can follow the blog piece here: [Create an EC2 Instance on AWS using Terraform](https://medium.com/@roadtocloude/create-an-ec2-instance-using-terraform-7606cba03d2c)
 
 ---
 ## Quickstart 
