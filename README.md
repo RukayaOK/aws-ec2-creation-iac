@@ -7,4 +7,4 @@ In this five part series we will create an AWS Elastic Compute Cloud (EC2) Insta
 4. Crossplane
 5. The AWS CDK
 
-Implementation guide can be found here: https://medium.com/@roadtocloude/list/create-an-aws-ec2-instance-c4ca1b5067fe
+Implementation guide can be found here: [Create EC2 Instances with Infrastructure as Code](https://medium.com/@roadtocloude/list/create-an-aws-ec2-instance-c4ca1b5067fe)
