@@ -2,7 +2,7 @@
 
 ## Detailed Instructions 
 
-To understand this repository in detail you can follow the blog piece here: [Create an EC2 Instance on AWS using Pulumi (Python)]()
+To understand this repository in detail you can follow the blog piece here: [Create an EC2 Instance on AWS using Pulumi (Python)](https://medium.com/@roadtocloude/create-an-ec2-instance-on-aws-using-pulumi-python-43b179eb10bb)
 
 ---
 ## Quickstart 
