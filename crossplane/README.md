@@ -53,7 +53,7 @@ To understand this repository in detail you can follow the blog piece here: [Cre
 
 9. Install the AWS Crossplane provider in your cluster
    ```
-   kubectl crossplane install provider crossplane/provider-aws:v0.22.0
+   kubectl crossplane install provider crossplane/provider-aws:v0.27.0
    ```
 
 10. Create the Provider Configuration
